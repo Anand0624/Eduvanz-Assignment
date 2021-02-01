@@ -1,0 +1,26 @@
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\bin\Debug\netcoreapp3.1\MeetUp.Services.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\bin\Debug\netcoreapp3.1\MeetUp.Services.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\bin\Debug\netcoreapp3.1\MeetUp.Services.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\bin\Debug\netcoreapp3.1\MeetUp.Services.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache

@@ -1,0 +1,33 @@
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\bin\Debug\netcoreapp3.1\MeetUp.Services.deps.json
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\bin\Debug\netcoreapp3.1\MeetUp.Services.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\bin\Debug\netcoreapp3.1\MeetUp.Services.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\obj\Debug\netcoreapp3.1\MeetUp.Services.csprojAssemblyReference.cache
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\obj\Debug\netcoreapp3.1\MeetUp.Services.AssemblyInfoInputs.cache
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\obj\Debug\netcoreapp3.1\MeetUp.Services.AssemblyInfo.cs
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\obj\Debug\netcoreapp3.1\MeetUp.Services.csproj.CopyComplete
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\obj\Debug\netcoreapp3.1\MeetUp.Services.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Contracts\obj\Debug\netcoreapp3.1\MeetUp.Services.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\bin\Debug\netcoreapp3.1\MeetUp.Services.deps.json
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\bin\Debug\netcoreapp3.1\MeetUp.Services.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\bin\Debug\netcoreapp3.1\MeetUp.Services.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.csprojAssemblyReference.cache
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.AssemblyInfoInputs.cache
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.AssemblyInfo.cs
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.csproj.CopyComplete
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\bin\Debug\netcoreapp3.1\MeetUp.Services.deps.json
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\bin\Debug\netcoreapp3.1\MeetUp.Services.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\bin\Debug\netcoreapp3.1\MeetUp.Services.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.csprojAssemblyReference.cache
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.AssemblyInfoInputs.cache
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.AssemblyInfo.cs
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.csproj.CopyComplete
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Services\obj\Debug\netcoreapp3.1\MeetUp.Services.pdb

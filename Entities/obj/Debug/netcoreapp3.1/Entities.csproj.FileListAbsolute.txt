@@ -1,0 +1,15 @@
+E:\Other\Eduvanz-Assignment-main\Part 6\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\Other\Eduvanz-Assignment-main\Part 6\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Other\Eduvanz-Assignment-main\Part 6\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\Other\Eduvanz-Assignment-main\Part 6\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\Other\Eduvanz-Assignment-main\Part 6\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Part 6\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+E:\Other\Eduvanz-Assignment-main\Eduvanz-Assignment-main\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
