@@ -1,0 +1,64 @@
+﻿@model MeetUp_Assignment.Models.UserList
+
+<div class="text-center">
+    <h2 class="display-4">Assignment Test - Dhamanand Sarate</h2>
+    <p>Developed On : @DateTime.Now.ToString("dddd, dd MMMM yyyy")</p>
+    <p>Note : Please refer <a href="swagger/index.html" target="_blank" style="cursor:pointer">Swagger Documentation</a>  for API Details</p>
+</div>
+
+<h2>Registered User List</h2>
+<br />
+<form action="/" method="post">
+    <input type="text" placeholder="Search By Name" name="SearchName" asp-for="SearchName" value="@(@Model.SearchName==null ?"":@Model.SearchName)" />
+    <input type="text" placeholder="Search By Locality" name="SearchLocality" asp-for="SearchName" value="@(@Model.SearchLocality==null ?"":@Model.SearchLocality)" />
+    <input type="submit" class="btn-primary" name="" value="Search" />
+</form>
+<br />
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Profession</th>
+            <th>Age</th>
+            <th>Locality</th>
+            <th>Address</th>
+            <th>Created On</th>
+            <th>Updated On</th>
+        </tr>
+    </thead>
+    @{
+        if (Model.paginationModel.UserData.Count > 0)
+        {
+            @foreach (var item in Model.paginationModel.UserData)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Profession</td>
+                    <td>@item.Age</td>
+                    <td>@item.Locality</td>
+                    <td style="white-space:pre">@item.Address</td>
+                    <td>@item.CreatedOn</td>
+                    <td>@item.UpdatedOn</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr> <td colspan="8">No Record Found</td></tr>
+        }
+
+    }
+
+</table>
+<div>
+    <ul class="pagination">
+        @for (var i = 1; i <= Model.paginationModel.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.paginationModel.CurrentPage ? "active" : "")">
+                <a asp-route-currentpage="@i" class="page-link">@i</a>
+            </li>
+        }
+    </ul>
+</div>

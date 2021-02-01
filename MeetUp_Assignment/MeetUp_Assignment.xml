@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MeetUp_Assignment</name>
+    </assembly>
+    <members>
+        <member name="M:MeetUp_Assignment.Controllers.RegisterController.GetAllUsers(System.Int32,System.Int32)">
+            <summary>
+            Method to get all registered user's details 
+            </summary>
+            <param name="currentPage">Page Number</param>
+            <param name="pageSize"> Page size </param>
+            <returns></returns>
+        </member>
+        <member name="M:MeetUp_Assignment.Controllers.RegisterController.GetUserByUserId(System.Int64)">
+            <summary>
+            Method to get user details by user id
+            </summary>
+            <param name="id"> User Id to get user details</param>
+            <returns></returns>
+        </member>
+        <member name="M:MeetUp_Assignment.Controllers.RegisterController.RegisterUser(Entities.DataTransferObjects.UserRegisterModel)">
+            <summary>
+            Method to register user details in database with validation
+            </summary>
+            <param name="userRegisterModel"> User details object to save user</param>
+            <returns></returns>
+        </member>
+        <member name="M:MeetUp_Assignment.Controllers.RegisterController.UpdateUser(Entities.DataTransferObjects.UserUpdateModel)">
+            <summary>
+            Method to update user details by user id
+            </summary>
+            <param name="userUpdateModel"> User details object to update user</param>
+            <returns></returns>
+        </member>
+        <member name="M:MeetUp_Assignment.Controllers.RegisterController.DeleteUser(System.Int64)">
+            <summary>
+            Method to delete user record by user id
+            </summary>
+            <param name="id"> user id to delete user against this id</param>
+            <returns></returns>
+        </member>
+        <member name="M:MeetUp_Assignment.Factories.UserModelFactory.PrepareUserRegisterModel(Entities.DataTransferObjects.UserRegisterModel)">
+            <summary>
+            Method to prepare request data to user register model
+            </summary>
+            <param name="userRegisterModel">user save model object</param>
+            <returns></returns>
+        </member>
+        <member name="M:MeetUp_Assignment.Factories.UserModelFactory.PrepareUserUpdateModel(Entities.DataTransferObjects.UserUpdateModel)">
+            <summary>
+            Method to prepare request data to update register model
+            </summary>
+            <param name="userUpdateModel">Update request model object </param>
+            <returns></returns>
+        </member>
+        <member name="P:MeetUp_Assignment.Models.Paging.PaginationModel.CurrentPage">
+            <summary>
+            Set current page of pagination
+            </summary>
+        </member>
+        <member name="P:MeetUp_Assignment.Models.Paging.PaginationModel.Count">
+            <summary>
+            total no of record count set
+            </summary>
+        </member>
+        <member name="P:MeetUp_Assignment.Models.Paging.PaginationModel.PageSize">
+            <summary>
+            default page for pagination
+            </summary>
+        </member>
+        <member name="P:MeetUp_Assignment.Models.Paging.PaginationModel.TotalPages">
+            <summary>
+            calculate no of  pages devide by total count
+            </summary>
+        </member>
+        <member name="P:MeetUp_Assignment.Models.Paging.PaginationModel.UserData">
+            <summary>
+            User data from database
+            </summary>
+        </member>
+        <member name="P:MeetUp_Assignment.Models.Paging.PaginationModel.ShowPrevious">
+            <summary>
+            show previous pagination page  button on current page number
+            </summary>
+        </member>
+        <member name="P:MeetUp_Assignment.Models.Paging.PaginationModel.ShowNext">
+            <summary>
+            show next pagination page button on current page number
+            </summary>
+        </member>
+    </members>
+</doc>
